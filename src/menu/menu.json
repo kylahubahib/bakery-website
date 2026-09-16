@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Wheat Bread",
+        "description": "A classic wheat loaf with a nutty flavor and hearty texture.",
+        "price": 4.99,
+        "image": "../menu/3.png",
+        "qty": 50
+    },
+    {
+        "id": 2,
+        "name": "White Bread",
+        "description": "Soft and fluffy white bread perfect for sandwiches.",
+        "price": 2.99,
+        "image": "../menu/2.png",
+        "qty": 100
+    },
+    {
+        "id": 3,
+        "name": "Short Baguette",
+        "description": "A small, soft baguette perfect for snacking.",
+        "price": 3.99,
+        "image": "../menu/1.png",
+        "qty": 75
+    },
+    {
+        "id": 4,
+        "name": "Long Baguette",
+        "description": "A long, crusty baguette perfect for meals.",
+        "price": 4.99,
+        "image": "../menu/4.png",
+        "qty": 60
+    },
+    {
+        "id": 5,
+        "name": "Kaiser Roll",
+        "description": "A buttery, flaky pastry perfect for breakfast.",
+        "price": 2.49,
+        "image": "../menu/5.png",
+        "qty": 80
+    },
+    {
+        "id": 6,
+        "name": "Sourdough Bread",
+        "description": "A classic sourdough loaf with a tangy flavor and chewy texture.",
+        "price": 5.99,
+        "image": "../menu/6.png",
+        "qty": 40
+    },
+    {
+        "id": 7,
+        "name": "Pretzel",
+        "description": "A chewy, salty pretzel perfect for a snack or side.",
+        "price": 2.99,
+        "image": "../menu/7.png",
+        "qty": 90
+    },
+    {
+        "id": 8,
+        "name": "Chocolate Croissant",
+        "description": "A buttery, flaky pastry filled with rich chocolate.",
+        "price": 3.99,
+        "image": "../menu/8.png",
+        "qty": 70
+    },
+    {
+        "id": 9,
+        "name": "Sliced Bread",
+        "description": "A soft, sliced bread perfect for sandwiches or toast.",
+        "price": 2.99,
+        "image": "../menu/9.png",
+        "qty": 120
+    },
+    {
+        "id": 10,
+        "name": "Rye Bread",
+        "description": "A rich, bold bread perfect for breakfast or dessert.",
+        "price": 4.99,
+        "image": "../menu/10.png",
+        "qty": 55
+    }
+]
